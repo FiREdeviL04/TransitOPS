@@ -1,0 +1,6 @@
+{
+  "name": "TransitOps",
+  "description": "Smart Transport Operations Platform - Enterprise-grade Transport Management ERP for fleet, drivers, trips, maintenance, and fuel logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
